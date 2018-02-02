@@ -6,7 +6,7 @@
 
     <groupId>com.robertboothby</groupId>
     <artifactId>Facets</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.0-SNAPSHOT</version>
     <description>
         This projects is intended to introduce an experimental concept that I am calling facets. The core concept is
         to play with the idea of dynamic typing where an object can gain and lose  attributes and behaviours through its
